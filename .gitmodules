@@ -1,0 +1,3 @@
+[submodule "Day08/amalcoci2017"]
+	path = Day08/amalcoci2017
+	url = https://github.com/compandreimd/amalcoci2017.git
